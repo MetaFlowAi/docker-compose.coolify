@@ -1,2 +1,2 @@
-# docker-compose.coolify
+# docker-compose
 Repositório para deploy do Chatwoot com Baileys via Coolify.
